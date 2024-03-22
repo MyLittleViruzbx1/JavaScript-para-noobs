@@ -12,7 +12,6 @@ function Cliente (nombre, saldo){
     this.saldo = saldo;
 }
 
-
 const juan = new Cliente('juan', 500);
 
 console.log(juan)
